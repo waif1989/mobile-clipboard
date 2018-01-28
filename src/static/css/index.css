@@ -1,3 +1,6 @@
+* {
+    -webkit-appearance: none;
+}
 img {
     display: block;
     width: 100%;
