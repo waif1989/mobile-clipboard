@@ -29,6 +29,8 @@
     "webpack-dev-server": "^2.11.1"
   },
   "dependencies": {
-    "babel-runtime": "^6.26.0"
+    "babel-runtime": "^6.26.0",
+    "clipboard": "^1.7.1",
+    "jquery": "^3.3.1"
   }
 }
